@@ -4,7 +4,7 @@ In this project i wil scrap a given website and show its title on the screen.
 
 This project will be used as first example and boilerplate to build more complex projects using Streamlit library as Front End and Python language as backend to buil powerful and state of the art projects.
 
-### Let´s start from the beginning
+### Let´s start from the beginning.
 
 `Streamlit` is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. [streamlit link](https://streamlit.io/)
 
